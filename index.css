@@ -1,0 +1,403 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  color: #ffffff;
+}
+
+body {
+  background: #000000;
+}
+
+/* Header */
+.side {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.sidemenu li {
+  display: inline-block;
+  list-style: none;
+  margin: 30px;
+}
+
+.sidemenu li a {
+  text-decoration: none;
+  font-size: 18px;
+  position: relative;
+}
+
+.side .sidemenu li a::after {
+  content: "";
+  width: 0;
+  height: 3px;
+  background: rgb(41, 156, 251);
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  transition: 0.3s;
+}
+
+.sidemenu li a:hover::after {
+  width: 100%;
+}
+
+/* Header text */
+.header-text {
+  margin-left: 10%;
+  margin-top: 15%;
+  font-size: 30px;
+}
+
+.header-text-tanya {
+  margin-top: 5%;
+  font-size: 30px;
+  margin-left: 5%;
+}
+
+.header-text h1 {
+  font-size: 60px;
+  margin-top: 20px;
+}
+
+.header-text-tanya h1 span,
+.header-text h1 span {
+  color: rgb(41, 156, 251);
+}
+
+/* About styles */
+.about {
+  color: #ffffff;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.about-col-1 {
+  margin-left: 10px;
+  margin-top: 2%;
+  flex-basis: 42%;
+}
+
+.about-col-1 img {
+  margin-top: 15%;
+  margin-left: 10%;
+  width: 75%;
+  border-radius: 100%;
+  animation: rotate 13s linear infinite;
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.about-col-2 {
+  margin-top: 2, 5%;
+  flex-basis: 55%;
+}
+.col-4 {
+  border-radius: 10px;
+  width: 30%;
+  margin-top: 30px;
+  margin-left: 18px;
+  margin-right: 18px;
+  position: relative;
+  overflow: hidden;
+}
+.col-4:hover .gambar {
+  transform: scale(105%);
+}
+.col-4 h3 {
+  position: relative;
+  z-index: 2;
+}
+.col-4 h3::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.col-4:hover h3::before {
+  opacity: 1;
+}
+.col-4:hover::before {
+  content: "";
+  position: absolute;
+  top: 100;
+  width: 100%;
+  height: 80%;
+  background: linear-gradient(
+    to top,
+    rgba(34, 42, 255, 0),
+    rgba(0, 140, 255, 0.48)
+  );
+  z-index: 1;
+}
+
+.gambar {
+  width: 100%;
+  height: auto;
+  border-radius: 0px; /* Adjust border-rad */
+  transition: transform 1.3s;
+}
+
+.sub-tittle {
+  text-align: right;
+  margin-right: 8%;
+  margin-top: 6%;
+  margin-bottom: 0.5%;
+  font-size: 35px;
+  font-weight: 700;
+  color: rgb(6, 143, 255);
+}
+
+.rata {
+  padding-right: 50px;
+  text-align: justify;
+  line-height: 150%;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 25px;
+  border: none;
+  height: 1.5px;
+  color: #000000;
+  background-color: #000000;
+}
+
+/* Tab styles */
+.tab-tittles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-gap: 10px;
+  margin-top: 1%;
+  margin-left: 0px;
+}
+
+.tab-tittles p {
+  background: rgb(41, 156, 251);
+  padding: 13px;
+  font-size: 12px;
+  text-align: center;
+  color: #fcfcfc;
+  font-weight: 300;
+  border-radius: 10px;
+  transition: background 0.2s, transform 0.5s;
+}
+
+.tab-tittles p:hover {
+  background: #8d0505;
+  transform: translateY(-5px);
+}
+
+.tab-links {
+  margin-right: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  position: relative;
+}
+
+.tab-links::after {
+  content: "";
+  width: 0;
+  height: 3px;
+  background: #000000;
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+  transition: 0.3s;
+}
+
+.tab-links.active-link::after {
+  width: 100%;
+  height: 1.5px;
+}
+
+.tab-contents ul li {
+  list-style: none;
+  margin-right: 50px;
+  line-height: 150%;
+}
+
+.tab-contents ul li span {
+  color: rgb(11, 164, 184);
+  font-size: 16px;
+}
+
+.tab-contents {
+  display: none;
+  font-size: 15px;
+}
+
+.tab-contents.active-tab {
+  display: block;
+  text-align: justify;
+}
+
+/* Our Pages section styles */
+.feeds {
+  padding: 50%;
+}
+
+.work-list {
+  display: flex;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 40px;
+  margin-top: 5%;
+}
+
+.work {
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  width: 50%;
+  border-radius: 10px;
+  display: flex;
+  transition: transform 0.5s;
+}
+
+.work-img {
+  width: 10%;
+  border-radius: 10px;
+  display: block;
+  transition: transform 0.5s;
+}
+
+.layer {
+  width: 100%;
+  height: 0;
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgb(0, 76, 169));
+  border-radius: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 40px;
+  text-align: center;
+  font-size: 14px;
+  transition: height 0.5s ease-in-out; /* Tambahkan ease-in-out untuk efek yang lebih halus */
+}
+
+.layer h3 {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.layer a {
+  margin-top: 20px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 30px;
+  background: rgb(0, 0, 0);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.work-img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+  transition: transform 0.5s;
+}
+
+.work:hover .gambar {
+  transform: scale(1.1);
+}
+
+.work:hover .layer {
+  height: 100%;
+}
+
+.btn {
+  display: block;
+  margin: 50px auto;
+  width: fit-content;
+  border: 1px solid rgb(255, 255, 255);
+  padding: 14px 50px;
+  border-radius: 6px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #ffffff;
+  background: #000000;
+  cursor: alias;
+}
+
+.btn:hover {
+  color: #000000;
+  background: rgb(36, 129, 235);
+  transform: translateY(-5px);
+  transition: transform 1s;
+  transition: 0.3s;
+}
+
+/* React Component Styles */
+.questions {
+  float: left;
+  width: 35%;
+  margin-left: 3%;
+}
+
+.answer {
+  margin-right: 3%;
+  float: right;
+  width: 55%;
+}
+
+.answer form {
+  width: 100%;
+}
+
+form input,
+.answer textarea {
+  width: 100%;
+  outline: none;
+  background: #fcfcfc;
+  padding: 15px;
+  margin: 18px 0;
+  color: #1a8cff;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+form .btn {
+  padding: 14px 60px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.copyright {
+  width: 100%;
+  text-align: center;
+  color: #fcfcfc;
+  padding: 9px;
+  background: #1a8cff;
+  font-weight: 500;
+  margin-top: 2.5%;
+}
