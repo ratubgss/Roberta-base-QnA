@@ -1,0 +1,1788 @@
+[
+  {
+    "context": "Human rights are fundamental rights that are inherent to all human beings, regardless of race, religion, gender, language, social status, or any other factor. These rights are considered universal, inalienable, and cannot be revoked. The principles of human rights are internationally recognized and governed by various treaties and declarations, including the Universal Declaration of Human Rights adopted by the United Nations in 1948.",
+    "qas": [
+      {
+        "id": "1",
+        "is_impossible": false,
+        "question": "What are human rights?",
+        "answers": [
+          {
+            "text": "Human rights are fundamental rights that are inherent to all human beings, regardless of race, religion, gender, language, social status, or any other factor.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "is_impossible": false,
+        "question": "When was the Universal Declaration of Human Rights adopted?",
+        "answers": [
+          {
+            "text": "The Universal Declaration of Human Rights was adopted by the United Nations in 1948.",
+            "answer_start": 231
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "is_impossible": false,
+        "question": "What are the principles of human rights?",
+        "answers": [
+          {
+            "text": "The principles of human rights include being universal, inalienable, and cannot be revoked.",
+            "answer_start": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Human rights encompass the right to life and protection against torture or arbitrary treatment. Every individual has the right to assemble and associate, as well as the right to speak and express opinions. Equal rights under the law and the right to choose a religion are also included in human rights.",
+    "qas": [
+      {
+        "id": "2",
+        "is_impossible": false,
+        "question": "What rights involve freedom of expression in human rights?",
+        "answers": [
+          {
+            "text": "Human rights encompass the right to life and protection against torture or arbitrary treatment. Every individual has the right to assemble and associate, as well as the right to speak and express opinions.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "is_impossible": false,
+        "question": "What are some rights related to equal treatment under the law?",
+        "answers": [
+          {
+            "text": "Equal rights under the law and the right to choose a religion are included in human rights.",
+            "answer_start": 178
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "is_impossible": false,
+        "question": "Can human rights be revoked?",
+        "answers": [
+          {
+            "text": "No, human rights are considered universal, inalienable, and cannot be revoked.",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Human rights involve the responsibility of governments and institutions to protect and respect the rights of individuals. Violations of human rights can become a focus of global attention and may trigger responses from the international community.",
+    "qas": [
+      {
+        "id": "3",
+        "is_impossible": false,
+        "question": "What is the government's responsibility regarding human rights?",
+        "answers": [
+          {
+            "text": "Human rights involve the responsibility of governments and institutions to protect and respect the rights of individuals.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "is_impossible": false,
+        "question": "What can trigger responses from the international community regarding human rights violations?",
+        "answers": [
+          {
+            "text": "Violations of human rights can become a focus of global attention and may trigger responses from the international community.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "is_impossible": false,
+        "question": "Is there a global recognition of the principles of human rights?",
+        "answers": [
+          {
+            "text": "Yes, the principles of human rights are internationally recognized.",
+            "answer_start": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Human rights involve the responsibility of governments and institutions to protect and respect the rights of individuals. Violations of human rights can become a focus of global attention and may trigger responses from the international community.",
+    "qas": [
+      {
+        "id": "10",
+        "is_impossible": false,
+        "question": "Are there consequences for violating human rights?",
+        "answers": [
+          {
+            "text": "Violations of human rights can become a focus of global attention and may trigger responses from the international community.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "is_impossible": false,
+        "question": "What are some examples of global responses to human rights violations?",
+        "answers": [
+          {
+            "text": "Responses to human rights violations can include various actions from the international community.",
+            "answer_start": 106
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "is_impossible": false,
+        "question": "Can individuals play a role in promoting human rights?",
+        "answers": [
+          {
+            "text": "Yes, individuals can play a role in promoting human rights.",
+            "answer_start": 188
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to education is a fundamental human right that ensures access to quality education for all. It includes the right to free and compulsory primary education, equal access to higher education, and the freedom to choose educational institutions.",
+    "qas": [
+      {
+        "id": "13",
+        "is_impossible": false,
+        "question": "What does the right to education encompass?",
+        "answers": [
+          {
+            "text": "The right to education includes access to quality education for all, free and compulsory primary education, equal access to higher education, and the freedom to choose educational institutions.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "is_impossible": false,
+        "question": "Is primary education free and compulsory under the right to education?",
+        "answers": [
+          {
+            "text": "Yes, the right to education includes the right to free and compulsory primary education.",
+            "answer_start": 90
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "is_impossible": false,
+        "question": "Are individuals free to choose educational institutions under the right to education?",
+        "answers": [
+          {
+            "text": "Yes, the right to education includes the freedom to choose educational institutions.",
+            "answer_start": 159
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to health is a fundamental human right that includes access to timely, acceptable, and affordable healthcare of good quality. It encompasses the right to preventive healthcare, treatment, and control of diseases. The right to health is recognized in various international agreements and declarations.",
+    "qas": [
+      {
+        "id": "16",
+        "is_impossible": false,
+        "question": "What does the right to health include?",
+        "answers": [
+          {
+            "text": "The right to health includes access to timely, acceptable, and affordable healthcare of good quality, preventive healthcare, treatment, and control of diseases.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "is_impossible": false,
+        "question": "Is the right to health recognized internationally?",
+        "answers": [
+          {
+            "text": "Yes, the right to health is recognized in various international agreements and declarations.",
+            "answer_start": 167
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "is_impossible": false,
+        "question": "Can individuals advocate for their right to health?",
+        "answers": [
+          {
+            "text": "Yes, individuals can advocate for their right to health.",
+            "answer_start": 223
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to privacy is a fundamental human right that protects individuals from arbitrary interference in their personal lives. It includes the right to control and protect personal information, family, home, and correspondence. The right to privacy is essential in maintaining human dignity and freedom.",
+    "qas": [
+      {
+        "id": "19",
+        "is_impossible": false,
+        "question": "What does the right to privacy protect?",
+        "answers": [
+          {
+            "text": "The right to privacy protects individuals from arbitrary interference in their personal lives, including the right to control and protect personal information, family, home, and correspondence.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "is_impossible": false,
+        "question": "Why is the right to privacy considered essential?",
+        "answers": [
+          {
+            "text": "The right to privacy is considered essential in maintaining human dignity and freedom.",
+            "answer_start": 171
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "is_impossible": false,
+        "question": "Are there legal frameworks recognizing the right to privacy?",
+        "answers": [
+          {
+            "text": "Yes, there are legal frameworks that recognize the right to privacy.",
+            "answer_start": 274
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Freedom of expression is a fundamental human right that allows individuals to express their thoughts, ideas, and opinions freely. It includes the right to seek, receive, and impart information and ideas through any media. The right to freedom of expression is essential for a democratic society and is protected by various international conventions and declarations.",
+    "qas": [
+      {
+        "id": "22",
+        "is_impossible": false,
+        "question": "What is freedom of expression?",
+        "answers": [
+          {
+            "text": "Freedom of expression is a fundamental human right that allows individuals to express their thoughts, ideas, and opinions freely.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "is_impossible": false,
+        "question": "What does the right to freedom of expression include?",
+        "answers": [
+          {
+            "text": "The right to freedom of expression includes the right to seek, receive, and impart information and ideas through any media.",
+            "answer_start": 104
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "is_impossible": false,
+        "question": "Why is freedom of expression considered essential for a democratic society?",
+        "answers": [
+          {
+            "text": "Freedom of expression is considered essential for a democratic society because it allows open dialogue and the exchange of diverse ideas.",
+            "answer_start": 221
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to a fair trial is a fundamental human right that ensures individuals receive a fair and impartial hearing in legal proceedings. It includes the right to be informed of charges, the right to legal representation, and the right to a timely and public trial. The right to a fair trial is protected by international human rights treaties.",
+    "qas": [
+      {
+        "id": "25",
+        "is_impossible": false,
+        "question": "What is the right to a fair trial?",
+        "answers": [
+          {
+            "text": "The right to a fair trial ensures individuals receive a fair and impartial hearing in legal proceedings.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "26",
+        "is_impossible": false,
+        "question": "What are some elements included in the right to a fair trial?",
+        "answers": [
+          {
+            "text": "Elements included in the right to a fair trial are the right to be informed of charges, the right to legal representation, and the right to a timely and public trial.",
+            "answer_start": 123
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "is_impossible": false,
+        "question": "Why is the right to a fair trial important?",
+        "answers": [
+          {
+            "text": "The right to a fair trial is important to ensure justice and protect individuals from unfair legal proceedings.",
+            "answer_start": 282
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to work is a fundamental human right that includes the right to freely choose employment, the right to just and favorable conditions of work, and the right to protection against unemployment. It encompasses the right to equal pay for equal work and the right to form and join trade unions.",
+    "qas": [
+      {
+        "id": "28",
+        "is_impossible": false,
+        "question": "What is the right to work?",
+        "answers": [
+          {
+            "text": "The right to work is a fundamental human right that includes the right to freely choose employment, just and favorable conditions of work, and protection against unemployment.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "29",
+        "is_impossible": false,
+        "question": "What are some elements included in the right to work?",
+        "answers": [
+          {
+            "text": "Elements included in the right to work are the right to equal pay for equal work and the right to form and join trade unions.",
+            "answer_start": 155
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "is_impossible": false,
+        "question": "Why is the right to work considered a fundamental human right?",
+        "answers": [
+          {
+            "text": "The right to work is considered a fundamental human right because it ensures individuals have the freedom to choose employment and are protected in their working conditions.",
+            "answer_start": 313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to housing is a fundamental human right that includes the right to adequate and affordable housing. It encompasses the right to live in security, peace, and dignity. Governments have a responsibility to take steps to ensure access to housing for all, especially vulnerable and marginalized groups.",
+    "qas": [
+      {
+        "id": "31",
+        "is_impossible": false,
+        "question": "What is the right to housing?",
+        "answers": [
+          {
+            "text": "The right to housing is a fundamental human right that includes the right to adequate and affordable housing.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "is_impossible": false,
+        "question": "What does the right to housing encompass?",
+        "answers": [
+          {
+            "text": "The right to housing encompasses the right to live in security, peace, and dignity.",
+            "answer_start": 87
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "is_impossible": false,
+        "question": "Whose responsibility is it to ensure access to housing for all?",
+        "answers": [
+          {
+            "text": "Governments have a responsibility to take steps to ensure access to housing for all, especially vulnerable and marginalized groups.",
+            "answer_start": 181
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to participate in government is a fundamental human right that includes the right to vote and stand for election. It is essential for the exercise of democracy and ensuring that citizens have a voice in decision-making.",
+    "qas": [
+      {
+        "id": "34",
+        "is_impossible": false,
+        "question": "What is the right to participate in government?",
+        "answers": [
+          {
+            "text": "The right to participate in government is a fundamental human right that includes the right to vote and stand for election.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "is_impossible": false,
+        "question": "Why is the right to participate in government essential?",
+        "answers": [
+          {
+            "text": "The right to participate in government is essential for the exercise of democracy and ensuring that citizens have a voice in decision-making.",
+            "answer_start": 106
+          }
+        ]
+      },
+      {
+        "id": "36",
+        "is_impossible": false,
+        "question": "Are there specific actions included in the right to participate in government?",
+        "answers": [
+          {
+            "text": "Yes, the right to participate in government includes the right to vote and stand for election.",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to a nationality is a fundamental human right that includes the right to acquire, change, or retain nationality. It is essential for legal identity and access to various rights and services.",
+    "qas": [
+      {
+        "id": "37",
+        "is_impossible": false,
+        "question": "What does the right to a nationality entail?",
+        "answers": [
+          {
+            "text": "The right to a nationality is a fundamental human right that includes the right to acquire, change, or retain nationality.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "38",
+        "is_impossible": false,
+        "question": "Why is the right to a nationality considered essential?",
+        "answers": [
+          {
+            "text": "The right to a nationality is essential for legal identity and access to various rights and services.",
+            "answer_start": 64
+          }
+        ]
+      },
+      {
+        "id": "39",
+        "is_impossible": false,
+        "question": "Can individuals change their nationality under the right to a nationality?",
+        "answers": [
+          {
+            "text": "Yes, the right to a nationality includes the right to change nationality.",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to cultural participation is a fundamental human right that includes the right to participate in cultural life and enjoy the arts. It is essential for the preservation of cultural diversity and individual expression.",
+    "qas": [
+      {
+        "id": "40",
+        "is_impossible": false,
+        "question": "What is included in the right to cultural participation?",
+        "answers": [
+          {
+            "text": "The right to cultural participation is a fundamental human right that includes the right to participate in cultural life and enjoy the arts.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "41",
+        "is_impossible": false,
+        "question": "Why is the right to cultural participation essential?",
+        "answers": [
+          {
+            "text": "The right to cultural participation is essential for the preservation of cultural diversity and individual expression.",
+            "answer_start": 75
+          }
+        ]
+      },
+      {
+        "id": "42",
+        "is_impossible": false,
+        "question": "How does the right to cultural participation contribute to society?",
+        "answers": [
+          {
+            "text": "The right to cultural participation contributes to society by preserving cultural diversity and supporting individual expression.",
+            "answer_start": 109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to marry and found a family is a fundamental human right that includes the right to freely choose a spouse and enter into marriage with their full and free consent. It encompasses the right to found a family without arbitrary interference. This right is recognized in various international human rights instruments.",
+    "qas": [
+      {
+        "id": "43",
+        "is_impossible": false,
+        "question": "What is the right to marry and found a family?",
+        "answers": [
+          {
+            "text": "The right to marry and found a family is a fundamental human right that includes the right to freely choose a spouse and enter into marriage with their full and free consent.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "44",
+        "is_impossible": false,
+        "question": "Does the right to marry and found a family include the right to choose a spouse freely?",
+        "answers": [
+          {
+            "text": "Yes, the right to marry and found a family includes the right to freely choose a spouse.",
+            "answer_start": 78
+          }
+        ]
+      },
+      {
+        "id": "45",
+        "is_impossible": false,
+        "question": "Is arbitrary interference allowed in the right to found a family?",
+        "answers": [
+          {
+            "text": "No, the right to found a family prohibits arbitrary interference.",
+            "answer_start": 143
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to social security is a fundamental human right that includes the right to social insurance and assistance. It encompasses the right to protection against the economic and social consequences of unemployment, sickness, disability, widowhood, old age, or other lack of livelihood in circumstances beyond one's control.",
+    "qas": [
+      {
+        "id": "46",
+        "is_impossible": false,
+        "question": "What is the right to social security?",
+        "answers": [
+          {
+            "text": "The right to social security is a fundamental human right that includes the right to social insurance and assistance.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "is_impossible": false,
+        "question": "What does the right to social security encompass?",
+        "answers": [
+          {
+            "text": "The right to social security encompasses protection against the economic and social consequences of unemployment, sickness, disability, widowhood, old age, or other lack of livelihood in circumstances beyond one's control.",
+            "answer_start": 94
+          }
+        ]
+      },
+      {
+        "id": "48",
+        "is_impossible": false,
+        "question": "Is the right to social security limited to specific circumstances?",
+        "answers": [
+          {
+            "text": "No, the right to social security covers various circumstances beyond one's control.",
+            "answer_start": 228
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to a healthy environment is a fundamental human right that includes the right to live in an environment that supports overall well-being. It encompasses the right to access information, participate in decision-making, and seek redress for environmental harm. This right is vital for sustainable development and the protection of future generations.",
+    "qas": [
+      {
+        "id": "49",
+        "is_impossible": false,
+        "question": "What is the right to a healthy environment?",
+        "answers": [
+          {
+            "text": "The right to a healthy environment is a fundamental human right that includes the right to live in an environment that supports overall well-being.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "50",
+        "is_impossible": false,
+        "question": "Does the right to a healthy environment include the right to access information?",
+        "answers": [
+          {
+            "text": "Yes, the right to a healthy environment encompasses the right to access information.",
+            "answer_start": 82
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "is_impossible": false,
+        "question": "Why is the right to a healthy environment vital?",
+        "answers": [
+          {
+            "text": "The right to a healthy environment is vital for sustainable development and the protection of future generations.",
+            "answer_start": 214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to freedom of assembly is a fundamental human right that includes the right to peacefully assemble and associate with others. It encompasses the right to participate in public gatherings and express opinions. This right is essential for the functioning of a democratic society.",
+    "qas": [
+      {
+        "id": "52",
+        "is_impossible": false,
+        "question": "What is the right to freedom of assembly?",
+        "answers": [
+          {
+            "text": "The right to freedom of assembly is a fundamental human right that includes the right to peacefully assemble and associate with others.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "53",
+        "is_impossible": false,
+        "question": "Does the right to freedom of assembly include the right to participate in public gatherings?",
+        "answers": [
+          {
+            "text": "Yes, the right to freedom of assembly encompasses the right to participate in public gatherings.",
+            "answer_start": 101
+          }
+        ]
+      },
+      {
+        "id": "54",
+        "is_impossible": false,
+        "question": "Why is the right to freedom of assembly essential?",
+        "answers": [
+          {
+            "text": "The right to freedom of assembly is essential for the functioning of a democratic society.",
+            "answer_start": 207
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to non-discrimination is a fundamental human right that prohibits discrimination on various grounds, including race, color, sex, language, religion, political or other opinion, national or social origin, property, birth, or other status. It encompasses the right to equal protection under the law.",
+    "qas": [
+      {
+        "id": "55",
+        "is_impossible": false,
+        "question": "What is the right to non-discrimination?",
+        "answers": [
+          {
+            "text": "The right to non-discrimination is a fundamental human right that prohibits discrimination on various grounds, including race, color, sex, language, religion, political or other opinion, national or social origin, property, birth, or other status.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "56",
+        "is_impossible": false,
+        "question": "Does the right to non-discrimination include the right to equal protection under the law?",
+        "answers": [
+          {
+            "text": "Yes, the right to non-discrimination encompasses the right to equal protection under the law.",
+            "answer_start": 190
+          }
+        ]
+      },
+      {
+        "id": "57",
+        "is_impossible": false,
+        "question": "Why is the right to non-discrimination important?",
+        "answers": [
+          {
+            "text": "The right to non-discrimination is important for promoting equality and preventing unfair treatment based on various grounds.",
+            "answer_start": 343
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to access information is a fundamental human right that includes the right to seek, receive, and impart information. It encompasses the right to access information held by public authorities and promotes transparency in governance.",
+    "qas": [
+      {
+        "id": "58",
+        "is_impossible": false,
+        "question": "What is the right to access information?",
+        "answers": [
+          {
+            "text": "The right to access information is a fundamental human right that includes the right to seek, receive, and impart information.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "59",
+        "is_impossible": false,
+        "question": "Does the right to access information include the right to access information held by public authorities?",
+        "answers": [
+          {
+            "text": "Yes, the right to access information encompasses the right to access information held by public authorities.",
+            "answer_start": 102
+          }
+        ]
+      },
+      {
+        "id": "60",
+        "is_impossible": false,
+        "question": "Why is the right to access information important?",
+        "answers": [
+          {
+            "text": "The right to access information is important for promoting transparency in governance and empowering individuals with information.",
+            "answer_start": 260
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to education is a fundamental human right that includes the right to free and compulsory primary education. It encompasses the right to access quality education without discrimination. The right to education is essential for personal development, empowerment, and the advancement of society.",
+    "qas": [
+      {
+        "id": "61",
+        "is_impossible": false,
+        "question": "What is the right to education?",
+        "answers": [
+          {
+            "text": "The right to education is a fundamental human right that includes the right to free and compulsory primary education.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "62",
+        "is_impossible": false,
+        "question": "Does the right to education encompass the right to access quality education?",
+        "answers": [
+          {
+            "text": "Yes, the right to education encompasses the right to access quality education without discrimination.",
+            "answer_start": 110
+          }
+        ]
+      },
+      {
+        "id": "63",
+        "is_impossible": false,
+        "question": "Why is the right to education essential?",
+        "answers": [
+          {
+            "text": "The right to education is essential for personal development, empowerment, and the advancement of society.",
+            "answer_start": 271
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to freedom of religion or belief is a fundamental human right that includes the right to practice, manifest, and change one's religion or belief. It encompasses the right to worship individually or in community with others. This right is protected by international human rights treaties.",
+    "qas": [
+      {
+        "id": "64",
+        "is_impossible": false,
+        "question": "What is the right to freedom of religion or belief?",
+        "answers": [
+          {
+            "text": "The right to freedom of religion or belief is a fundamental human right that includes the right to practice, manifest, and change one's religion or belief.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "65",
+        "is_impossible": false,
+        "question": "Does the right to freedom of religion or belief encompass the right to worship individually or in community?",
+        "answers": [
+          {
+            "text": "Yes, the right to freedom of religion or belief encompasses the right to worship individually or in community with others.",
+            "answer_start": 134
+          }
+        ]
+      },
+      {
+        "id": "66",
+        "is_impossible": false,
+        "question": "Why is the right to freedom of religion or belief protected by international treaties?",
+        "answers": [
+          {
+            "text": "The right to freedom of religion or belief is protected by international human rights treaties to ensure its recognition and respect globally.",
+            "answer_start": 292
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to a standard of living adequate for health and well-being is a fundamental human right that includes the right to food, clothing, housing, and medical care. It encompasses the right to security in the event of unemployment, sickness, disability, widowhood, old age, or other lack of livelihood in circumstances beyond one's control.",
+    "qas": [
+      {
+        "id": "67",
+        "is_impossible": false,
+        "question": "What is the right to a standard of living adequate for health and well-being?",
+        "answers": [
+          {
+            "text": "The right to a standard of living adequate for health and well-being is a fundamental human right that includes the right to food, clothing, housing, and medical care.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "68",
+        "is_impossible": false,
+        "question": "Does the right to a standard of living encompass the right to security in the event of unemployment or sickness?",
+        "answers": [
+          {
+            "text": "Yes, the right to a standard of living encompasses the right to security in the event of unemployment, sickness, disability, widowhood, old age, or other lack of livelihood.",
+            "answer_start": 205
+          }
+        ]
+      },
+      {
+        "id": "69",
+        "is_impossible": false,
+        "question": "Why is the right to a standard of living considered fundamental?",
+        "answers": [
+          {
+            "text": "The right to a standard of living adequate for health and well-being is considered fundamental to ensure the basic necessities for a dignified life.",
+            "answer_start": 367
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to privacy is a fundamental human right that includes the right to be free from arbitrary interference with one's privacy, family, home, and correspondence. It encompasses the right to protection against unlawful surveillance and the right to control the collection and use of personal information. This right is essential for individual autonomy and personal dignity.",
+    "qas": [
+      {
+        "id": "70",
+        "is_impossible": false,
+        "question": "What is the right to privacy?",
+        "answers": [
+          {
+            "text": "The right to privacy is a fundamental human right that includes the right to be free from arbitrary interference with one's privacy, family, home, and correspondence.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "71",
+        "is_impossible": false,
+        "question": "Does the right to privacy encompass the right to protection against unlawful surveillance?",
+        "answers": [
+          {
+            "text": "Yes, the right to privacy encompasses the right to protection against unlawful surveillance.",
+            "answer_start": 147
+          }
+        ]
+      },
+      {
+        "id": "72",
+        "is_impossible": false,
+        "question": "Why is the right to privacy considered essential?",
+        "answers": [
+          {
+            "text": "The right to privacy is considered essential for individual autonomy and personal dignity.",
+            "answer_start": 305
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to peaceful enjoyment of property is a fundamental human right that includes the right to use, enjoy, and dispose of one's property without arbitrary interference. It encompasses the right to protection against unlawful expropriation and the right to access and participate in decisions affecting one's property.",
+    "qas": [
+      {
+        "id": "73",
+        "is_impossible": false,
+        "question": "What is the right to peaceful enjoyment of property?",
+        "answers": [
+          {
+            "text": "The right to peaceful enjoyment of property is a fundamental human right that includes the right to use, enjoy, and dispose of one's property without arbitrary interference.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "74",
+        "is_impossible": false,
+        "question": "Does the right to peaceful enjoyment of property encompass the right to protection against unlawful expropriation?",
+        "answers": [
+          {
+            "text": "Yes, the right to peaceful enjoyment of property encompasses the right to protection against unlawful expropriation.",
+            "answer_start": 171
+          }
+        ]
+      },
+      {
+        "id": "75",
+        "is_impossible": false,
+        "question": "Why is the right to peaceful enjoyment of property important?",
+        "answers": [
+          {
+            "text": "The right to peaceful enjoyment of property is important for safeguarding individual rights and preventing arbitrary interference with one's property.",
+            "answer_start": 327
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to seek asylum is a fundamental human right that includes the right to seek and enjoy asylum from persecution. It encompasses the right to non-refoulement, ensuring that individuals are not forcibly returned to countries where they face persecution or threats to their life or freedom.",
+    "qas": [
+      {
+        "id": "76",
+        "is_impossible": false,
+        "question": "What is the right to seek asylum?",
+        "answers": [
+          {
+            "text": "The right to seek asylum is a fundamental human right that includes the right to seek and enjoy asylum from persecution.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "77",
+        "is_impossible": false,
+        "question": "Does the right to seek asylum encompass the right to non-refoulement?",
+        "answers": [
+          {
+            "text": "Yes, the right to seek asylum encompasses the right to non-refoulement, preventing individuals from being forcibly returned to countries where they face persecution or threats to their life or freedom.",
+            "answer_start": 144
+          }
+        ]
+      },
+      {
+        "id": "78",
+        "is_impossible": false,
+        "question": "Why is the right to seek asylum considered fundamental?",
+        "answers": [
+          {
+            "text": "The right to seek asylum is considered fundamental for protecting individuals from persecution and ensuring their safety and freedom.",
+            "answer_start": 383
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to work is a fundamental human right that includes the right to freely choose employment, to just and favorable conditions of work, and to protection against unemployment. It encompasses the right to equal pay for equal work and the right to form and join trade unions. The right to work is essential for personal development and the well-being of individuals and communities.",
+    "qas": [
+      {
+        "id": "79",
+        "is_impossible": false,
+        "question": "What is the right to work?",
+        "answers": [
+          {
+            "text": "The right to work is a fundamental human right that includes the right to freely choose employment, to just and favorable conditions of work, and to protection against unemployment.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "80",
+        "is_impossible": false,
+        "question": "Does the right to work encompass the right to equal pay for equal work?",
+        "answers": [
+          {
+            "text": "Yes, the right to work encompasses the right to equal pay for equal work.",
+            "answer_start": 120
+          }
+        ]
+      },
+      {
+        "id": "81",
+        "is_impossible": false,
+        "question": "Why is the right to work considered essential?",
+        "answers": [
+          {
+            "text": "The right to work is considered essential for personal development and the well-being of individuals and communities.",
+            "answer_start": 265
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to participate in the cultural life of the community is a fundamental human right that includes the right to enjoy the arts, to participate in cultural activities, and to access cultural heritage. It encompasses the right to freedom of artistic expression and the right to share in scientific advancement and its benefits.",
+    "qas": [
+      {
+        "id": "82",
+        "is_impossible": false,
+        "question": "What is the right to participate in the cultural life of the community?",
+        "answers": [
+          {
+            "text": "The right to participate in the cultural life of the community is a fundamental human right that includes the right to enjoy the arts, to participate in cultural activities, and to access cultural heritage.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "83",
+        "is_impossible": false,
+        "question": "Does the right to participate in cultural life encompass the right to freedom of artistic expression?",
+        "answers": [
+          {
+            "text": "Yes, the right to participate in cultural life encompasses the right to freedom of artistic expression.",
+            "answer_start": 129
+          }
+        ]
+      },
+      {
+        "id": "84",
+        "is_impossible": false,
+        "question": "Why is the right to participate in the cultural life of the community important?",
+        "answers": [
+          {
+            "text": "The right to participate in the cultural life of the community is important for fostering creativity, preserving cultural heritage, and promoting cultural diversity.",
+            "answer_start": 300
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to a fair and public hearing is a fundamental human right that includes the right to a fair and impartial tribunal, as well as the right to be heard by an independent and competent court or tribunal. It encompasses the right to a public hearing and the right to legal representation. This right is essential for ensuring justice and the rule of law.",
+    "qas": [
+      {
+        "id": "85",
+        "is_impossible": false,
+        "question": "What is the right to a fair and public hearing?",
+        "answers": [
+          {
+            "text": "The right to a fair and public hearing is a fundamental human right that includes the right to a fair and impartial tribunal, as well as the right to be heard by an independent and competent court or tribunal.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "86",
+        "is_impossible": false,
+        "question": "Does the right to a fair and public hearing encompass the right to legal representation?",
+        "answers": [
+          {
+            "text": "Yes, the right to a fair and public hearing encompasses the right to legal representation.",
+            "answer_start": 135
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "is_impossible": false,
+        "question": "Why is the right to a fair and public hearing essential?",
+        "answers": [
+          {
+            "text": "The right to a fair and public hearing is essential for ensuring justice and the rule of law.",
+            "answer_start": 268
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to access justice is a fundamental human right that includes the right to a fair and public trial, the right to legal representation, and the right to be heard by an independent and impartial tribunal. It encompasses the right to access legal remedies and seek justice without discrimination. This right is essential for upholding the rule of law.",
+    "qas": [
+      {
+        "id": "88",
+        "is_impossible": false,
+        "question": "What is the right to access justice?",
+        "answers": [
+          {
+            "text": "The right to access justice is a fundamental human right that includes the right to a fair and public trial, the right to legal representation, and the right to be heard by an independent and impartial tribunal.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "89",
+        "is_impossible": false,
+        "question": "Does the right to access justice encompass the right to access legal remedies without discrimination?",
+        "answers": [
+          {
+            "text": "Yes, the right to access justice encompasses the right to access legal remedies and seek justice without discrimination.",
+            "answer_start": 157
+          }
+        ]
+      },
+      {
+        "id": "90",
+        "is_impossible": false,
+        "question": "Why is the right to access justice essential?",
+        "answers": [
+          {
+            "text": "The right to access justice is essential for upholding the rule of law and ensuring fairness in legal proceedings.",
+            "answer_start": 350
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to an adequate standard of living is a fundamental human right that includes the right to food, clothing, housing, and medical care. It encompasses the right to social security and the right to enjoy the benefits of scientific progress. This right is essential for human dignity and well-being.",
+    "qas": [
+      {
+        "id": "91",
+        "is_impossible": false,
+        "question": "What is the right to an adequate standard of living?",
+        "answers": [
+          {
+            "text": "The right to an adequate standard of living is a fundamental human right that includes the right to food, clothing, housing, and medical care.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "92",
+        "is_impossible": false,
+        "question": "Does the right to an adequate standard of living encompass the right to social security?",
+        "answers": [
+          {
+            "text": "Yes, the right to an adequate standard of living encompasses the right to social security.",
+            "answer_start": 110
+          }
+        ]
+      },
+      {
+        "id": "93",
+        "is_impossible": false,
+        "question": "Why is the right to an adequate standard of living considered essential?",
+        "answers": [
+          {
+            "text": "The right to an adequate standard of living is considered essential for human dignity and well-being.",
+            "answer_start": 234
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to development is a fundamental human right that includes the right to participate in, contribute to, and enjoy economic, social, cultural, and political development. It encompasses the right to a fair distribution of the benefits of development and the right to a healthy and sustainable environment. This right is essential for individual and collective well-being.",
+    "qas": [
+      {
+        "id": "94",
+        "is_impossible": false,
+        "question": "What is the right to development?",
+        "answers": [
+          {
+            "text": "The right to development is a fundamental human right that includes the right to participate in, contribute to, and enjoy economic, social, cultural, and political development.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "95",
+        "is_impossible": false,
+        "question": "Does the right to development encompass the right to a fair distribution of the benefits of development?",
+        "answers": [
+          {
+            "text": "Yes, the right to development encompasses the right to a fair distribution of the benefits of development.",
+            "answer_start": 123
+          }
+        ]
+      },
+      {
+        "id": "96",
+        "is_impossible": false,
+        "question": "Why is the right to development considered essential?",
+        "answers": [
+          {
+            "text": "The right to development is considered essential for individual and collective well-being.",
+            "answer_start": 276
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to participate in government is a fundamental human right that includes the right to vote and stand for election. It encompasses the right to participate in public affairs and have equal access to public service. This right is essential for the functioning of democracy and ensuring inclusive governance.",
+    "qas": [
+      {
+        "id": "97",
+        "is_impossible": false,
+        "question": "What is the right to participate in government?",
+        "answers": [
+          {
+            "text": "The right to participate in government is a fundamental human right that includes the right to vote and stand for election.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "98",
+        "is_impossible": false,
+        "question": "Does the right to participate in government encompass the right to participate in public affairs?",
+        "answers": [
+          {
+            "text": "Yes, the right to participate in government encompasses the right to participate in public affairs and have equal access to public service.",
+            "answer_start": 116
+          }
+        ]
+      },
+      {
+        "id": "99",
+        "is_impossible": false,
+        "question": "Why is the right to participate in government essential?",
+        "answers": [
+          {
+            "text": "The right to participate in government is essential for the functioning of democracy and ensuring inclusive governance.",
+            "answer_start": 281
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to a healthy environment is a fundamental human right that includes the right to live in an environment that supports health and well-being. It encompasses the right to access information and participate in environmental decision-making. This right is essential for sustainable development and the protection of future generations.",
+    "qas": [
+      {
+        "id": "100",
+        "is_impossible": false,
+        "question": "What is the right to a healthy environment?",
+        "answers": [
+          {
+            "text": "The right to a healthy environment is a fundamental human right that includes the right to live in an environment that supports health and well-being.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "101",
+        "is_impossible": false,
+        "question": "Does the right to a healthy environment encompass the right to access information and participate in environmental decision-making?",
+        "answers": [
+          {
+            "text": "Yes, the right to a healthy environment encompasses the right to access information and participate in environmental decision-making.",
+            "answer_start": 120
+          }
+        ]
+      },
+      {
+        "id": "102",
+        "is_impossible": false,
+        "question": "Why is the right to a healthy environment important?",
+        "answers": [
+          {
+            "text": "The right to a healthy environment is important for sustainable development and the protection of future generations.",
+            "answer_start": 313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to social security is a fundamental human right that includes the right to social insurance and the right to protection against unemployment, sickness, disability, widowhood, old age, or other lack of livelihood. It encompasses the right to an adequate standard of living and access to necessary social services. This right is essential for social and economic well-being.",
+    "qas": [
+      {
+        "id": "103",
+        "is_impossible": false,
+        "question": "What is the right to social security?",
+        "answers": [
+          {
+            "text": "The right to social security is a fundamental human right that includes the right to social insurance and the right to protection against unemployment, sickness, disability, widowhood, old age, or other lack of livelihood.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "104",
+        "is_impossible": false,
+        "question": "Does the right to social security encompass the right to an adequate standard of living?",
+        "answers": [
+          {
+            "text": "Yes, the right to social security encompasses the right to an adequate standard of living and access to necessary social services.",
+            "answer_start": 166
+          }
+        ]
+      },
+      {
+        "id": "105",
+        "is_impossible": false,
+        "question": "Why is the right to social security considered essential?",
+        "answers": [
+          {
+            "text": "The right to social security is essential for social and economic well-being, providing protection against various life challenges.",
+            "answer_start": 329
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to privacy is a fundamental human right that includes the right to be free from arbitrary interference with one's privacy, family, home, and correspondence. It encompasses the right to protection against unlawful surveillance and the right to control the collection and use of personal information. This right is essential for individual autonomy and personal dignity.",
+    "qas": [
+      {
+        "id": "106",
+        "is_impossible": false,
+        "question": "What is the right to privacy?",
+        "answers": [
+          {
+            "text": "The right to privacy is a fundamental human right that includes the right to be free from arbitrary interference with one's privacy, family, home, and correspondence.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "107",
+        "is_impossible": false,
+        "question": "Does the right to privacy encompass the right to control the collection and use of personal information?",
+        "answers": [
+          {
+            "text": "Yes, the right to privacy encompasses the right to control the collection and use of personal information.",
+            "answer_start": 159
+          }
+        ]
+      },
+      {
+        "id": "108",
+        "is_impossible": false,
+        "question": "Why is the right to privacy considered essential?",
+        "answers": [
+          {
+            "text": "The right to privacy is considered essential for individual autonomy and personal dignity.",
+            "answer_start": 311
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to peaceful enjoyment of property is a fundamental human right that includes the right to use, enjoy, and dispose of one's property without arbitrary interference. It encompasses the right to protection against unlawful expropriation and the right to access and participate in decisions affecting one's property.",
+    "qas": [
+      {
+        "id": "109",
+        "is_impossible": false,
+        "question": "What is the right to peaceful enjoyment of property?",
+        "answers": [
+          {
+            "text": "The right to peaceful enjoyment of property is a fundamental human right that includes the right to use, enjoy, and dispose of one's property without arbitrary interference.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "110",
+        "is_impossible": false,
+        "question": "Does the right to peaceful enjoyment of property encompass the right to protection against unlawful expropriation?",
+        "answers": [
+          {
+            "text": "Yes, the right to peaceful enjoyment of property encompasses the right to protection against unlawful expropriation.",
+            "answer_start": 171
+          }
+        ]
+      },
+      {
+        "id": "111",
+        "is_impossible": false,
+        "question": "Why is the right to peaceful enjoyment of property important?",
+        "answers": [
+          {
+            "text": "The right to peaceful enjoyment of property is important for safeguarding individual rights and preventing arbitrary interference with one's property.",
+            "answer_start": 327
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to seek asylum is a fundamental human right that includes the right to seek and enjoy asylum from persecution. It encompasses the right to non-refoulement, ensuring that individuals are not forcibly returned to countries where they face persecution or threats to their life or freedom.",
+    "qas": [
+      {
+        "id": "112",
+        "is_impossible": false,
+        "question": "What is the right to seek asylum?",
+        "answers": [
+          {
+            "text": "The right to seek asylum is a fundamental human right that includes the right to seek and enjoy asylum from persecution.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "113",
+        "is_impossible": false,
+        "question": "Does the right to seek asylum encompass the right to non-refoulement?",
+        "answers": [
+          {
+            "text": "Yes, the right to seek asylum encompasses the right to non-refoulement, preventing individuals from being forcibly returned to countries where they face persecution or threats to their life or freedom.",
+            "answer_start": 144
+          }
+        ]
+      },
+      {
+        "id": "114",
+        "is_impossible": false,
+        "question": "Why is the right to seek asylum considered fundamental?",
+        "answers": [
+          {
+            "text": "The right to seek asylum is considered fundamental for protecting individuals from persecution and ensuring their safety and freedom.",
+            "answer_start": 383
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to work is a fundamental human right that includes the right to freely choose employment, to just and favorable conditions of work, and to protection against unemployment. It encompasses the right to equal pay for equal work and the right to form and join trade unions. The right to work is essential for personal development and the well-being of individuals and communities.",
+    "qas": [
+      {
+        "id": "115",
+        "is_impossible": false,
+        "question": "What is the right to work?",
+        "answers": [
+          {
+            "text": "The right to work is a fundamental human right that includes the right to freely choose employment, to just and favorable conditions of work, and to protection against unemployment.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "116",
+        "is_impossible": false,
+        "question": "Does the right to work encompass the right to equal pay for equal work?",
+        "answers": [
+          {
+            "text": "Yes, the right to work encompasses the right to equal pay for equal work.",
+            "answer_start": 120
+          }
+        ]
+      },
+      {
+        "id": "117",
+        "is_impossible": false,
+        "question": "Why is the right to work considered essential?",
+        "answers": [
+          {
+            "text": "The right to work is considered essential for personal development and the well-being of individuals and communities.",
+            "answer_start": 265
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to participate in the cultural life of the community is a fundamental human right that includes the right to enjoy the arts, to participate in cultural activities, and to access cultural heritage. It encompasses the right to freedom of artistic expression and the right to share in scientific advancement and its benefits.",
+    "qas": [
+      {
+        "id": "118",
+        "is_impossible": false,
+        "question": "What is the right to participate in the cultural life of the community?",
+        "answers": [
+          {
+            "text": "The right to participate in the cultural life of the community is a fundamental human right that includes the right to enjoy the arts, to participate in cultural activities, and to access cultural heritage.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "119",
+        "is_impossible": false,
+        "question": "Does the right to participate in cultural life encompass the right to freedom of artistic expression?",
+        "answers": [
+          {
+            "text": "Yes, the right to participate in cultural life encompasses the right to freedom of artistic expression.",
+            "answer_start": 129
+          }
+        ]
+      },
+      {
+        "id": "120",
+        "is_impossible": false,
+        "question": "Why is the right to participate in the cultural life of the community important?",
+        "answers": [
+          {
+            "text": "The right to participate in the cultural life of the community is important for fostering creativity, preserving cultural heritage, and promoting cultural diversity.",
+            "answer_start": 300
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to a fair and public hearing is a fundamental human right that includes the right to a fair and impartial tribunal, as well as the right to be heard by an independent and competent court or tribunal. It encompasses the right to a public hearing and the right to legal representation. This right is essential for ensuring justice and the rule of law.",
+    "qas": [
+      {
+        "id": "121",
+        "is_impossible": false,
+        "question": "What is the right to a fair and public hearing?",
+        "answers": [
+          {
+            "text": "The right to a fair and public hearing is a fundamental human right that includes the right to a fair and impartial tribunal, as well as the right to be heard by an independent and competent court or tribunal.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "is_impossible": false,
+        "question": "Does the right to a fair and public hearing encompass the right to legal representation?",
+        "answers": [
+          {
+            "text": "Yes, the right to a fair and public hearing encompasses the right to legal representation.",
+            "answer_start": 135
+          }
+        ]
+      },
+      {
+        "id": "123",
+        "is_impossible": false,
+        "question": "Why is the right to a fair and public hearing essential?",
+        "answers": [
+          {
+            "text": "The right to a fair and public hearing is essential for ensuring justice and the rule of law.",
+            "answer_start": 268
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to access justice is a fundamental human right that includes the right to a fair and public trial, the right to legal representation, and the right to be heard by an independent and impartial tribunal. It encompasses the right to access legal remedies and seek justice without discrimination. This right is essential for upholding the rule of law.",
+    "qas": [
+      {
+        "id": "124",
+        "is_impossible": false,
+        "question": "What is the right to access justice?",
+        "answers": [
+          {
+            "text": "The right to access justice is a fundamental human right that includes the right to a fair and public trial, the right to legal representation, and the right to be heard by an independent and impartial tribunal.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "125",
+        "is_impossible": false,
+        "question": "Does the right to access justice encompass the right to access legal remedies without discrimination?",
+        "answers": [
+          {
+            "text": "Yes, the right to access justice encompasses the right to access legal remedies and seek justice without discrimination.",
+            "answer_start": 157
+          }
+        ]
+      },
+      {
+        "id": "126",
+        "is_impossible": false,
+        "question": "Why is the right to access justice essential?",
+        "answers": [
+          {
+            "text": "The right to access justice is essential for upholding the rule of law and ensuring fairness in legal proceedings.",
+            "answer_start": 350
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to education is a fundamental human right that includes the right to free and compulsory primary education, the right to access higher education on the basis of merit, and the right to vocational training. It encompasses the right to enjoy the benefits of cultural heritage and the right to participate in the cultural life of the community.",
+    "qas": [
+      {
+        "id": "127",
+        "is_impossible": false,
+        "question": "What is the right to education?",
+        "answers": [
+          {
+            "text": "The right to education is a fundamental human right that includes the right to free and compulsory primary education, the right to access higher education on the basis of merit, and the right to vocational training.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "128",
+        "is_impossible": false,
+        "question": "Does the right to education encompass the right to enjoy the benefits of cultural heritage?",
+        "answers": [
+          {
+            "text": "Yes, the right to education encompasses the right to enjoy the benefits of cultural heritage and the right to participate in the cultural life of the community.",
+            "answer_start": 172
+          }
+        ]
+      },
+      {
+        "id": "129",
+        "is_impossible": false,
+        "question": "Why is the right to education considered essential?",
+        "answers": [
+          {
+            "text": "The right to education is considered essential for individual development, social progress, and the promotion of cultural diversity.",
+            "answer_start": 356
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to health is a fundamental human right that includes the right to the highest attainable standard of physical and mental health. It encompasses the right to access healthcare services, essential medicines, and clean drinking water. This right is essential for a life of dignity and well-being.",
+    "qas": [
+      {
+        "id": "130",
+        "is_impossible": false,
+        "question": "What is the right to health?",
+        "answers": [
+          {
+            "text": "The right to health is a fundamental human right that includes the right to the highest attainable standard of physical and mental health.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "131",
+        "is_impossible": false,
+        "question": "Does the right to health encompass the right to access healthcare services and essential medicines?",
+        "answers": [
+          {
+            "text": "Yes, the right to health encompasses the right to access healthcare services, essential medicines, and clean drinking water.",
+            "answer_start": 165
+          }
+        ]
+      },
+      {
+        "id": "132",
+        "is_impossible": false,
+        "question": "Why is the right to health essential?",
+        "answers": [
+          {
+            "text": "The right to health is essential for a life of dignity and well-being, providing access to necessary healthcare resources and promoting overall health.",
+            "answer_start": 383
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to freedom of opinion and expression is a fundamental human right that includes the right to hold opinions without interference and the right to seek, receive, and impart information and ideas. It encompasses the right to freedom of the press and the right to access information.",
+    "qas": [
+      {
+        "id": "133",
+        "is_impossible": false,
+        "question": "What is the right to freedom of opinion and expression?",
+        "answers": [
+          {
+            "text": "The right to freedom of opinion and expression is a fundamental human right that includes the right to hold opinions without interference and the right to seek, receive, and impart information and ideas.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "134",
+        "is_impossible": false,
+        "question": "Does the right to freedom of opinion and expression encompass the right to freedom of the press?",
+        "answers": [
+          {
+            "text": "Yes, the right to freedom of opinion and expression encompasses the right to freedom of the press and the right to access information.",
+            "answer_start": 155
+          }
+        ]
+      },
+      {
+        "id": "135",
+        "is_impossible": false,
+        "question": "Why is the right to freedom of opinion and expression important?",
+        "answers": [
+          {
+            "text": "The right to freedom of opinion and expression is important for fostering democratic societies, promoting transparency, and safeguarding individual autonomy.",
+            "answer_start": 352
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to nationality is a fundamental human right that includes the right to acquire, change, or retain nationality. It encompasses the right to not be arbitrarily deprived of nationality. This right is essential for legal identity, access to rights, and participation in civic life.",
+    "qas": [
+      {
+        "id": "136",
+        "is_impossible": false,
+        "question": "What is the right to nationality?",
+        "answers": [
+          {
+            "text": "The right to nationality is a fundamental human right that includes the right to acquire, change, or retain nationality.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "137",
+        "is_impossible": false,
+        "question": "Does the right to nationality encompass the right to not be arbitrarily deprived of nationality?",
+        "answers": [
+          {
+            "text": "Yes, the right to nationality encompasses the right to not be arbitrarily deprived of nationality.",
+            "answer_start": 119
+          }
+        ]
+      },
+      {
+        "id": "138",
+        "is_impossible": false,
+        "question": "Why is the right to nationality essential?",
+        "answers": [
+          {
+            "text": "The right to nationality is essential for legal identity, access to rights, and participation in civic life.",
+            "answer_start": 266
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The right to social security is a fundamental human right that includes the right to social insurance and the right to protection against unemployment, sickness, disability, widowhood, old age, or other lack of livelihood. It encompasses the right to an adequate standard of living and access to necessary social services. This right is essential for social and economic well-being.",
+    "qas": [
+      {
+        "id": "139",
+        "is_impossible": false,
+        "question": "What is the right to social security?",
+        "answers": [
+          {
+            "text": "The right to social security is a fundamental human right that includes the right to social insurance and the right to protection against unemployment, sickness, disability, widowhood, old age, or other lack of livelihood.",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "is_impossible": false,
+        "question": "Does the right to social security encompass the right to an adequate standard of living?",
+        "answers": [
+          {
+            "text": "Yes, the right to social security encompasses the right to an adequate standard of living and access to necessary social services.",
+            "answer_start": 166
+          }
+        ]
+      },
+      {
+        "id": "141",
+        "is_impossible": false,
+        "question": "Why is the right to social security considered essential?",
+        "answers": [
+          {
+            "text": "The right to social security is essential for social and economic well-being, providing protection against various life challenges.",
+            "answer_start": 329
+          }
+        ]
+      }
+    ]
+  }
+]
